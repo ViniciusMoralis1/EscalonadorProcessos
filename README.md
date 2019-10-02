@@ -1,4 +1,4 @@
-# EscalonadorProcessos
+# Escalonador Processos
 
 Projeto destinado a matéria de Sistemas Operacionais II
 
